@@ -7,6 +7,16 @@ public class User {
 	private int age;
 
 
+	public User() {
+		super();
+	}
+
+	public User(String name, int age) {
+		super();
+		this.name = name;
+		this.age = age;
+	}
+
 	public String getName() {
 		return name;
 	}
