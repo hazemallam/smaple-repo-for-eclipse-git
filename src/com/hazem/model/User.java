@@ -3,6 +3,7 @@ package com.hazem.model;
 public class User {
 
 	private String name;
+	private int yeas;
 
 	public String getName() {
 		return name;
