@@ -1,1 +1,1 @@
-# smaple-repo-for-eclipse-git
+# Welcome to smaple-repo-for-eclipse-git
